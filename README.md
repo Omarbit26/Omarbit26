@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Fullstack developer with strong background in Backend 👨‍💻👨‍💻👨‍💻
 I am a passionate Full Stack Developer specializing in backend development. I love to create innovative solutions using best practices in programming. 
 
-####🚀 About Me
+#### 🚀 About Me
 Graduated in Mechatronics Engineering with one year of experience in digital transformation in mining industry
 passionate about new technology and software development. In addition, I am an enthusiastic and troubleshooting
 IT professional with strong skills in NodeJS, ReactJS, Express, Typescript, NestJS. I’m proficient in the English language. I am looking for opportunities to
@@ -48,9 +48,9 @@ DevOps course especialization (Ongoing)
 Data Estructure course (Ongoing)  
 Deep learning (Ongoing)
 
-## Career Goals
+## 🎯 Career Goals 
 Aspiring to be a solutions architect. I am ready to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, with the goal of contributing significantly to the technological success of digital transformation companies. 
 
-## Connect with Me
+## 🤝 Connect with Me
 * https://www.linkedin.com/in/jose-aliaga-092428315/ 
 Thank you for stopping by my profile! Feel free to reach out if you want to collaborate on exciting projects or exchange ideas over a cup of coffee! ☕
