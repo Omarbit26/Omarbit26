@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Fullstack developer with strong background in Backend 👨‍💻👨‍💻👨‍💻
-I am a passionate Full Stack Developer specializing in backend development.I enjoy solving complex problems  I can be relied upon to help your company achieve its goals by providing sustainable and scalable solutions for Web Development. 
+I am a passionate Full Stack Developer specializing in backend development. I enjoy solving complex problems. I can be relied upon to help your company achieve its goals by providing sustainable and scalable solutions for Web Development. 
 
 #### 🚀 About Me
 Graduated in Mechatronics Engineering with one year of experience in digital transformation in mining industry
