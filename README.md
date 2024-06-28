@@ -25,10 +25,8 @@ IT professional with strong skills in NodeJS, ReactJS, Express, Typescript, Nest
 develop practical skills to contribute to the success of large projects
 
 ## 📚 Professional Experience
-* Junior Project Manager and Technology Projects Intern
-  ** Assist in managing and developing web applications technologies for digital transformation
-* Technical support and sales professional intern
-  ** Technical support to sales area in electricity and telemetry solutions. Development of IOT platforms using Node Red.
+* Junior Project Manager and Technology Projects Intern: Assist in managing and developing web applications technologies for digital transformation
+* Technical support and sales professional intern: Technical support to sales area in electricity and telemetry solutions. Development of IOT platforms using Node Red.
 
 ## 🌟 Highlight Projects
 
