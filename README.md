@@ -30,9 +30,9 @@ develop practical skills to contribute to the success of large projects
 
 ## 🌟 Highlight Projects
 
-* Fast Burguers: Full stack development of a ecommerce platform in selling fastfood. 
-* Movie Management Platform : Utilized MongoDB to create a comprehensive tool for movie enthusiasts and cinema operators.
-* Web E-commerce API: Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
+* Fast Burguers: FastBurgers is a web platform for selling burgers with real-time order tracking, third-party authentication, PayPal integration, chatbot, admin-user chat, and email order details via Nodemailer. Developed with NestJS and TypeScript, integrated with Cloudinary for files uploading and fortified with bcrypt and JWT for security.
+* Movie Management Platform : A website showcasing recent movies, trailers, reviews, and exclusive content can attract movie enthusiasts and industry professionals, effectively promoting new films. Develeped with Javascript, MongoDB, Express and Bootstrap. 
+* Restaurant ShiftManager: A web app for managing pizzeria shifts can optimize workflow, allow easy shift changes, and offer features like automatic notifications, payroll integration, and performance monitoring.Developed with React, Express and Typescript. 
 
 ## 🛠️ Technical Stack
 * Languages: JavaScript, TypeScript, Python, Java
@@ -41,13 +41,13 @@ develop practical skills to contribute to the success of large projects
 * Misc: JWT, bcrypt, Cloudinary
 
 ## 📖 Education
-Full Stack Development Bootcamp (Ongoing)
+Full Stack Development Bootcamp (Finished)
 DevOps course especialization (Ongoing)
 Data Estructure course (Ongoing)  
 Deep learning (Ongoing)
 
 ## 🎯 Career Goals 
-Aspiring to be a solutions architect. I am ready to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, with the goal of contributing significantly to the technological success of digital transformation companies. 
+Aspiring to be a solution architect. I am ready to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, with the goal of contributing significantly to the technological success of digital transformation companies. 
 
 ## 🤝 Connect with Me
 * [Linkedin Profile](https://www.linkedin.com/in/jose-aliaga-092428315/)
