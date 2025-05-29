@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Fullstack developer with strong background in Backend 👨‍💻👨‍💻👨‍💻
+### Data Engineer Developer 👨‍💻👨‍💻👨‍💻
+<!--
 I am a passionate Full Stack Developer specializing in backend development. I enjoy solving complex problems. I can be relied upon to help your company achieve its goals by providing sustainable and scalable solutions for Web Development. 
 
 #### 🚀 About Me
@@ -45,6 +46,7 @@ Full Stack Development Bootcamp (Finished)
 DevOps course especialization (Ongoing)
 Data Estructure course (Ongoing)  
 Deep learning (Ongoing)
+-->
 
 ## 🎯 Career Goals 
 Aspiring to be a solution architect. I am ready to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, with the goal of contributing significantly to the technological success of digital transformation companies. 
