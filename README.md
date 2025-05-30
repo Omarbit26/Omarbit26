@@ -52,5 +52,5 @@ Deep learning (Ongoing)
 Aspiring to be a solution architect. I am ready to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, with the goal of contributing significantly to the technological success of digital transformation companies. 
 
 ## 🤝 Connect with Me
-* [Linkedin Profile](https://www.linkedin.com/in/jose-aliaga-092428315/)
+* [Linkedin Profile](https://www.linkedin.com/in/omar-aliaga-yauri-87a28727a/)
 * Thank you for stopping by my profile! Feel free to reach out if you want to collaborate on exciting projects or exchange ideas over a cup of coffee! ☕
